@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Fanforced Vent</name>
+	<author>Uaine Teine</author>
+	<packageId>UT.FanforcedVent</packageId>
+	<supportedVersions><li>1.2</li></supportedVersions>
+	<description>	0.1
+
+Why make a simple wooden barricade when concrete is available and a stronger and quick setting material.
+
+This mod adds a fortified barricade to the security tab:
+	- standard size (1x1)
+	- extended Hitpoints: 440
+	- quicker to build: 220 work
+	- flameproof
+
+Unlockable with research after concrete making.
+
+Requirements:
+	- Expanded Materials - Metals
+
+	</description>
+	 <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+</ModMetaData>
