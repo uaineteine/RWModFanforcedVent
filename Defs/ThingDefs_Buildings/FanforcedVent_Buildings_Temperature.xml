@@ -5,9 +5,9 @@
     <defName>FanforcedVent</defName>
     <label>Fanforced vent</label>
     <description>A more efficient powered vent for equalizing the temperature between two rooms without allowing people to walk between them.</description>
-    <thingClass>Building_Vent</thingClass>
+    <thingClass>FanForcedVent.Building_FanVent</thingClass>
     <graphicData>
-      <texPath>Things/Building/Misc/TempControl/Vent</texPath>
+      <texPath>Things/Building/Misc/TempControl/FanVent</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
       <damageData>
         <cornerTL>Damage/Corner</cornerTL>
@@ -56,7 +56,7 @@
       </li>
 	  <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>8</basePowerConsumption>
+        <basePowerConsumption>18</basePowerConsumption>
       </li>
       <li Class="CompProperties_Breakdownable"/>
     </comps>
