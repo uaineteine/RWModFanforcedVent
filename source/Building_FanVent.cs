@@ -2,7 +2,7 @@ using System.Text;
 using Verse;
 using RimWorld;
 
-namespace RimWorld
+namespace FanForcedVent
 {
 	public class Building_FanVent : Building_Vent
 	{

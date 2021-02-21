@@ -1,1 +1,5 @@
 source/Decompile/*
+source/.vs/*
+source/bin/*
+source/obj/*
+source/Source-DLLs/*.dll
